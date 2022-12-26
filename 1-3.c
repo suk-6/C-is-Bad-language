@@ -15,7 +15,7 @@ int main()
     }
 }
 
-// result
+// resultㅅ
 // 1
 // 1 1
 // 1 2 1
